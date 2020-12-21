@@ -14,8 +14,8 @@ In this project,  DC motor speed is controlled using a PID controller and Fuzzy 
 ## Guide to use
 Follow the below mentiond steps to perfrom this simulation project in MATLAB Simulink
 1. Run the MATLAB Software and then open Simulation library
-2. For PID Controller, directly open the PID Controller file and run the simulation.
-3. For Fuzzy Logic Controller, place the file ‘’ in the same path as that of the file ‘’ and run the simulation.
+2. For PID Controller, directly open the 'PID_Controller.slx' file and run the simulation.
+3. For Fuzzy Logic Controller, place the file 'FuzzyRules.fis' in the same path as that of the file 'FLC_Cotroller.slx' and run the simulation.
 
 ## Result
 The output responce of both the controllers is shown in the below picture.
