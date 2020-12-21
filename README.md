@@ -17,4 +17,5 @@ Follow the below mentiond steps to perfrom this simulation project in MATLAB Sim
 2. For PID Controller, directly open the PID Controller file and run the simulation.
 3. For Fuzzy Logic Controller, place the file ‘’ in the same path as that of the file ‘’ and run the simulation.
 4. The output responce of both the controllers is shown in the below picture.
+![](Android%20Application/assets/changes1.JPG)
 
